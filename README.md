@@ -1,2 +1,1 @@
-# Sapin
-Language C - Sapin
+# Sapin - Language C
